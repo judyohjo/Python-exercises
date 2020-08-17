@@ -6,7 +6,7 @@ print("Hello World!") // Python method of printing output
 
 -------------------------------------------------
 
-Content
+# Content
 
 Python Exercises 1 ~ 15 -> Basic exercises 
 
