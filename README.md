@@ -1,4 +1,4 @@
-p# Python-programming-language
+# Python-programming-language
 
 -------------------------------------------------
 // Python method of printing output
