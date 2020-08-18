@@ -1,11 +1,10 @@
 # Python-programming-language
 
--------------------------------------------------
 // Python method of printing output
 
 print("Hello World!") 
 
--------------------------------------------------
+
 
 # Content
 
