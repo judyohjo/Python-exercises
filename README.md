@@ -1,6 +1,6 @@
 # Python-programming-language
 
-// Python method of printing an output 
+Python method of printing an output:
 
      print("Hello World!") 
 
