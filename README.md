@@ -1,4 +1,4 @@
-# Python-programming-language
+# Python
 
 Python method of printing an output:
 
@@ -6,7 +6,7 @@ Python method of printing an output:
 
 
 
-# Content
+# Contents
 
 Python Exercises 1 ~ 15 -> Basic exercises (including strings, lists)
 
