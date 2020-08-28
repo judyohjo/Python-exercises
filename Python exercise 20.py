@@ -10,7 +10,7 @@ def name(first_name, last_name):
         return ("Last name is not Smith!")
 
 
-
+Test cases:
 print(name("Andrew", "Smith"))
 print(name("Sally", "Smith"))
 print(name("Lily", "Lee"))
