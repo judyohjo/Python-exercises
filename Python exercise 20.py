@@ -9,8 +9,7 @@ def name(first_name, last_name):
     else:
         return ("Last name is not Smith!")
 
-
-Test cases:
+//Test cases:
 print(name("Andrew", "Smith"))
 print(name("Sally", "Smith"))
 print(name("Lily", "Lee"))
