@@ -6,6 +6,7 @@ Python method of printing an output:
 
 
 
+
 # Contents
 
 Python Exercises 1 ~ 15 -> Basic exercises (including strings, lists)
