@@ -14,6 +14,8 @@ Python Exercises -> Class exercises
 
 Python Exercises -> Stack exercises
 
+Python Exercises -> Queue exercises
+
 
 # Python method of printing output
 
