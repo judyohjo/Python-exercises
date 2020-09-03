@@ -10,6 +10,10 @@ Python Exercises  -> Dictionary exercises
 
 Python Exercises -> Tuple exercises
 
+Python Exercises -> Class exercises
+
+Python Exercises -> Stack exercises
+
 
 # Python method of printing output
 
