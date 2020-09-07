@@ -2,7 +2,7 @@
 
 Python Exercises 1 ~ 15 -> Basic exercises (including strings, lists)
 
-Python Exercises 16 ~ 20 -> Function exercises
+Python Exercises 16 ~ 20 -> Function exercises (with different test cases)
 
 Python Exercises 21 ~ -> random() exercises
 
