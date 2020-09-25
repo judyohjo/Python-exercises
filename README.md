@@ -6,7 +6,7 @@ Python Exercises 16 ~ 20 -> Function exercises (with different test cases)
 
 Python Exercises 21 ~ 26 -> random() exercises
 
-Python Exercises  -> Dictionary exercises
+Python Exercises 27 ~ -> Dictionary exercises
 
 Python Exercises -> Tuple exercises
 
