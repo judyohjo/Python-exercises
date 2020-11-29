@@ -8,13 +8,7 @@ Python Exercises 21 ~ 27 -> random() exercises
 
 Python Exercises 28 ~ -> Dictionary exercises
 
-Python Exercises -> Tuple exercises
 
-Python Exercises -> Class exercises
-
-Python Exercises -> Stack exercises
-
-Python Exercises -> Queue exercises
 
 
 # Python method of printing output
