@@ -1,6 +1,6 @@
-'''
-Input three integers and output following integers in a list.
-'''
+
+# Exercise 2 - Input three integers and output following integers in a list.
+
 
 first = input("Input the first integer: ")
 second = input("Input the second integer: ")
