@@ -1,5 +1,5 @@
 '''
-Input a string and input a number and print out the number of times of the string in a new line.
+Exercise 3 - Input a string and input a number and print out the number of times of the string in a new line.
 '''
 
 mystring = input("Input a string: ")
