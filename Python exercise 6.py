@@ -1,5 +1,5 @@
 '''
-Output words with length 5 or more (5 inclusive) from the sentence in upper case.
+Exercise 6 - Output words with length 5 or more (5 inclusive) from the sentence in upper case.
 '''
 
 mystring = 'Python is fun and awesome'
