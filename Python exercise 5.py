@@ -1,5 +1,5 @@
 '''
-Output words with length 5 or more (5 inclusive) from the sentence.
+Exercise 5 - Output words with length 5 or more (5 inclusive) from the sentence.
 '''
 
 mystring = 'Python is fun and awesome'
