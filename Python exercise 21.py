@@ -1,5 +1,5 @@
 '''
-Random() exercise 1
+Exercise 21 - Random() exercise 1
 '''
 
 import random
