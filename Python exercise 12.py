@@ -1,5 +1,5 @@
 '''
-Get the smallest number from each list and create a new list and print that new list.
+Exercise 12 - Get the smallest number from each list and create a new list and print that new list.
 '''
 
 list1 = [1, 3, 5, 0, 2, 3]
