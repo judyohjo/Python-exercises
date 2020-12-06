@@ -1,5 +1,5 @@
 '''
-Input height and width and calculate perimeter and area of a square.
+Exercise 14 - Input height and width and calculate perimeter and area of a square.
 '''
 
 height = int(input("Height: "))
