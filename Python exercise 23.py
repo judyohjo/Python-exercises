@@ -1,5 +1,5 @@
 '''
-Random() exercise 3 - Print any two random numbers between 0 and the number you input.
+Exercise 23 - Random() exercise 3 - Print any two random numbers between 0 and the number you input.
 '''
 
 import random
