@@ -1,5 +1,5 @@
 '''
-Input a number and print the number of times of "X" (eg. if number is 3, print...
+Exercise 11 - Input a number and print the number of times of "X" (eg. if number is 3, print...
 X
 XX
 XXX)
