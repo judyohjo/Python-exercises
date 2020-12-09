@@ -1,5 +1,5 @@
 '''
-Get the biggest number from each list and get the smallest number from each list and calculate the difference. 
+Exercise 13 - Get the biggest number from each list and get the smallest number from each list and calculate the difference. 
 Then, create a new list and get the average of those numbers (2dp).
 '''
 
