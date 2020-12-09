@@ -1,5 +1,5 @@
 '''
-Print all names with last name 'Smith'.
+Exercise 20 - Print all names with last name 'Smith'.
 '''
 
 def name(first_name, last_name):
