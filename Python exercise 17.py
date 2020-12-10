@@ -1,5 +1,5 @@
 '''
-Subtract num2 from num1.
+Exercise 17 - Subtract num2 from num1.
 '''
 def subtract(num1, num2):
     total = num1 - num2
