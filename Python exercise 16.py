@@ -1,5 +1,5 @@
 '''
-Add two numbers.
+Exercise 16 - Add two numbers.
 '''
 def add(num1, num2):
     total = num1 + num2
