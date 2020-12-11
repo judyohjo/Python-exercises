@@ -1,5 +1,5 @@
 '''
-Divide num2 from num1 (2dp).
+Exercise 19 - Divide num2 from num1 (2dp).
 '''
 def divide(num1, num2):
     total = float(num1 / num2)
