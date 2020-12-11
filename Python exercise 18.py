@@ -1,5 +1,5 @@
 '''
-Multiply num1 and num2.
+Exercise 18 - Multiply num1 and num2.
 '''
 def multiply(num1, num2):
     total = num1 * num2
