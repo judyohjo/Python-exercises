@@ -1,5 +1,5 @@
 '''
-Random() exercise 4 - Generate 6 lotto numbers!
+Exercise 24 - Random() exercise 4: Generate 6 lotto numbers!
 '''
 
 import random
