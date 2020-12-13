@@ -1,5 +1,5 @@
 '''
-Calculate the sum and average of list of numbers.
+Exercise 9 - Calculate the sum and average of list of numbers.
 '''
 
 list1 = ['6', '32', '15', '22', '5']
