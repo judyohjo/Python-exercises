@@ -1,5 +1,5 @@
 '''
-Randomly pick a word from a sentence and see if it's a vowel.
+Exercise 25 - Randomly pick a word from a sentence and see if it's a vowel.
 '''
 
 import random
