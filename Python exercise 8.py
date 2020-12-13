@@ -1,5 +1,5 @@
 '''
-Check if the string is in word/alphabet and if it is print the word/alphabet.
+Exercise 8 - Check if the string is in word/alphabet and if it is print the word/alphabet.
 '''
 
 mystring = 'Python is 4 fun and awesome. I want to learn 5 languages.'
