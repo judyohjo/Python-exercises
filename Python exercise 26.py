@@ -1,5 +1,5 @@
 '''
-Randomly pick a name from a list and form a pair.
+Exercise 26 - Randomly pick a name from a list and form a pair.
 '''
 
 import random
