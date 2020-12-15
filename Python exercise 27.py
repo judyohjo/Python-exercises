@@ -1,5 +1,5 @@
 '''
-Pick three random questions from bank of questions (10 questions).
+Exercise 27 - Pick three random questions from bank of questions (10 questions).
 '''
 
 import random
