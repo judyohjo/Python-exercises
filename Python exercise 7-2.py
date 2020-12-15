@@ -1,5 +1,5 @@
 '''
-Count the number of vowels in a string.
+Exercise 7-2 - Count the number of vowels in a string.
 '''
 
 mystring = 'Python is fun and awesome'
