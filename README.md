@@ -1,3 +1,5 @@
+These are exercises I practiced for Python. 
+
 # Contents - exercises
 
      Python Exercises 1 ~ 15 -> Basic exercises (including strings, lists)
