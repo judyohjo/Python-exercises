@@ -8,7 +8,7 @@ These are exercises I practiced for Python.
 
      Python Exercises 21 ~ 27 -> random() exercises
 
-     Python Exercises 28 ~ -> Dictionary exercises
+     Python Exercises 28 ~ -> Recursion exercises
 
 
 
